@@ -8,4 +8,6 @@ When converting WAV files using this software, please make a backup of your file
 
 JSample makes converting lots of files easy by allowing the user to convert everything in a specified folder.  Simply move all the files you want converted (even if it's hundreds of files) and then run the program and follow the prompts on the screen.
 
+To use just extract the files and run the "JSample.exe"
+
 Enjoy!
